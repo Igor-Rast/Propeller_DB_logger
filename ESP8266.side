@@ -1,0 +1,7 @@
+ESP8266.spin
+Parallax Serial Terminal.spin
+Float32.spin
+FullDuplexSerial_2k.spin
+Sensirion_full.spin
+FullDuplexSerial_2k.spin
+>compiler=SPIN
